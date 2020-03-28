@@ -24,6 +24,7 @@ nav a {
 }
 
 #featured-property p {
+  display: block;
   text-align: center;
   width: 800px;
 }
