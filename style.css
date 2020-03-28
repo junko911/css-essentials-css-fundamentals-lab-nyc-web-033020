@@ -35,3 +35,6 @@ nav a {
   display: block;
 }
 
+#details div {
+  display: float;
+}
